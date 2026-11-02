@@ -1,78 +1,103 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:111827,50:172554,100:312e81&text=Mayank%20Kumar&fontColor=ffffff&fontSize=48&fontAlignY=42&desc=Software%20Development%20%7C%20AI%2FML%20%7C%20Problem%20Solving&descAlignY=67&descSize=16" width="100%" alt="Mayank Kumar — Software Development, AI/ML and Problem Solving" /><a href="https://github.com/mayankbuilds"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=B.Tech+Computer+Science+%28AI+%26+ML%29;Building+useful+software%2C+one+commit+at+a+time;Exploring+AI-powered+applications;Learning%2C+building%2C+and+getting+better" alt="Typing introduction" /></a>
-<p>
-  <a href="https://github.com/mayankbuilds"><img src="https://img.shields.io/badge/GitHub-mayankbuilds-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-2563eb?style=for-the-badge" alt="Software Engineering" />
-  <img src="https://img.shields.io/badge/Interest-AI%20%2F%20ML-7c3aed?style=for-the-badge" alt="AI and ML" />
-</p></div>About Me
-Hey! I'm Mayank, a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning.
-
-I enjoy turning ideas into practical software — from full-stack applications to projects that explore how AI can make products more useful. I'm currently strengthening my problem-solving skills, learning modern web technologies, and building projects that solve real problems.
-- 🎓 B.Tech in Computer Science (AI & ML)
-- 💻 Interested in software engineering, full-stack development, and applied AI
-- 🧠 Practicing Data Structures & Algorithms and core CS fundamentals
-- 🛠️ Building with JavaScript, Python, and modern web technologies
-- 🌱 Always learning, experimenting, and improving through projects
-Tech Stack
-Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts" alt="Java, C++, C, Python, JavaScript and TypeScript" />
-</p>
-Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,mongodb,postgres" alt="HTML, CSS, React, Next.js, Node.js, Express, MongoDB and PostgreSQL" />
-</p>
-Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" alt="Git, GitHub, VS Code, Linux, Docker and Postman" />
-</p>
-AI / ML & Python Ecosystem
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,tensorflow" alt="Python, FastAPI, scikit-learn and TensorFlow" />
-</p>Featured Projects
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mayankbuilds/kanso">Kanso</a></h3>
-      <p>A minimal, local-first productivity dashboard for tasks, routines, focused work, and coding progress.</p>
-      <p><strong>Built with:</strong> Next.js · TypeScript · PWA</p>
-      <a href="https://kanso-daily.vercel.app/">Live Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mayankbuilds/Nagar-Sudhar">Nagar Sudhar</a></h3>
-      <p>A citizen-facing civic issue reporting application built for SIH 2025 (PS SIH25031).</p>
-      <p><strong>Built with:</strong> Flutter · Dart · Riverpod · OpenStreetMap</p>
-      <a href="https://nagar-sudhar.vercel.app/">Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mayankbuilds/Insurance_prediction_model">Insurance Premium Predictor</a></h3>
-      <p>A machine-learning application that predicts insurance premium categories through a web interface and API.</p>
-      <p><strong>Built with:</strong> Python · FastAPI · Streamlit · scikit-learn</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mayankbuilds/nagar-sudhar-dashboard">Nagar Sudhar Dashboard</a></h3>
-      <p>An administrator-facing dashboard for civic issue triage and GIS-based monitoring.</p>
-      <p><strong>Built with:</strong> JavaScript · Web technologies</p>
-    </td>
-  </tr>
-</table>Explore my repositories for source code, implementation details, and more experiments.
-
-GitHub Statistics
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mayankbuilds&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Mayank's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbuilds&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=mayankbuilds&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>Currently Working On
-- Strengthening Data Structures & Algorithms and problem-solving patterns
-- Improving full-stack development skills with React / Next.js and backend technologies
-- Exploring practical AI/ML integrations in software applications
-- Building and refining projects with an emphasis on usability and maintainability
-Let's Connect
-<p align="center">
-  <a href="https://github.com/mayankbuilds"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Add your LinkedIn and portfolio URLs here when ready. -->
-</p><div align="center">
-  <sub>Thanks for stopping by. Feel free to explore my repositories!</sub>
+
+# Mayank Kumar
+
+**B.Tech CSE (AI & ML) · Software Development · Applied AI**
+
+Building useful software, learning in public, and getting better one project at a time.
+
+[![GitHub](https://img.shields.io/badge/GitHub-mayankbuilds-181717?style=flat-square&logo=github)](https://github.com/mayankbuilds)
+[![Focus](https://img.shields.io/badge/Focus-Software%20Engineering-2563eb?style=flat-square)](https://github.com/mayankbuilds)
+
+</div>
+
+---
+
+## About
+
+I'm a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning. I enjoy building practical applications, understanding how software systems fit together, and exploring ways to integrate AI into useful products.
+
+- 🎓 B.Tech in Computer Science (AI & ML)
+- 💻 Interested in software engineering and full-stack development
+- 🧠 Practicing Data Structures & Algorithms and core CS fundamentals
+- 🤖 Exploring practical AI/ML integrations in applications
+- 🌱 Learning by building, testing, and improving real projects
+
+## Tech
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & AI/ML**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+## Selected Projects
+
+### [Kanso](https://github.com/mayankbuilds/kanso)
+A minimal, local-first productivity application and daily command center for developers and students.
+
+**Stack:** Next.js · TypeScript · PWA  
+[Live demo](https://kanso-daily.vercel.app/)
+
+### [Nagar Sudhar](https://github.com/mayankbuilds/Nagar-Sudhar)
+A citizen-facing civic issue reporting and community engagement application developed for Smart India Hackathon 2025 problem statement SIH25031.
+
+**Stack:** Dart · Flutter
+
+### [Nagar Sudhar Dashboard](https://github.com/mayankbuilds/nagar-sudhar-dashboard)
+An administrator-facing dashboard for civic issue triage and GIS-based monitoring, developed alongside Nagar Sudhar.
+
+**Stack:** JavaScript
+
+### [Insurance Prediction Model](https://github.com/mayankbuilds/Insurance_prediction_model)
+A machine-learning project exploring insurance prediction using a Python-based workflow.
+
+**Stack:** Python · scikit-learn
+
+More projects and experiments are available in my [repositories](https://github.com/mayankbuilds?tab=repositories).
+
+## Currently Focusing On
+
+- Data Structures & Algorithms and problem-solving patterns
+- Stronger computer science fundamentals
+- Full-stack application development
+- Practical AI/ML integrations in software products
+
+## GitHub Activity
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankbuilds&show_icons=true&hide_border=true&theme=transparent)](https://github.com/mayankbuilds)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbuilds&layout=compact&hide_border=true&theme=transparent)](https://github.com/mayankbuilds?tab=repositories)
+
+</div>
+
+## Connect
+
+- **GitHub:** [@mayankbuilds](https://github.com/mayankbuilds)
+<!-- Add your LinkedIn profile URL here once you provide the exact URL. -->
+
+---
+
+<div align="center">
+  <sub>Thanks for visiting. Feel free to explore my work.</sub>
 </div>
