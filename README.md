@@ -6,6 +6,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/OPEN%20TO-WORK-22c55e?style=for-the-badge" alt="Open to work" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-7c3aed?style=for-the-badge" alt="Focus: AI Engineering" />
   <img src="https://img.shields.io/badge/Community-Open%20Source-8b5cf6?style=for-the-badge&logo=github" alt="Open source" />
 </p>
 
